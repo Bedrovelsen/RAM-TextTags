@@ -1,0 +1,148 @@
+{"filename": "./train/104.142.114.180-554.jpg", "data": "('house | driveway | door | stair | yard | street | car | window | park | small | red', 'a view from a window shows a small yard with stairs and a red car parked in the driveway')"}
+{"filename": "./train/104.142.116.138-554.jpg", "data": "('backyard | home | house | driveway | yard | trailer | car | park', 'a car parked in the driveway of a home')"}
+{"filename": "./train/104.157.144.11-554.jpg", "data": "('room | camera | umbrella | picture | plant | photograph | man | photographer | photo | sit | black', 'a black and white photo of a man with an umbrella sitting in front of plants')"}
+{"filename": "./train/104.157.27.4-2001.jpg", "data": "('mirror | reflection | mountain | water | lake | picture | people | bench | sky', 'a mirror with a reflection of a lake, mountains, and people on the water')"}
+{"filename": "./train/104.157.58.239-8008.jpg", "data": "('building | kitchen | window | green', 'a view of a green building through a window')"}
+{"filename": "./train/104.157.96.222-81.jpg", "data": "('text | game | number', 'the text in the game is shown in different ways')"}
+{"filename": "./train/104.158.206.131-554.jpg", "data": "('building | bathroom | brick wall | house | door | light | shower | wall', 'a bathroom with a light on the wall and a door to the shower')"}
+{"filename": "./train/104.158.207.158-554.jpg", "data": "('fire hydrant | sidewalk | path | driveway | park | road | grass | street | car | tree', 'a view from above shows a driveway with a fire hydrant, a sidewalk, a tree, and a car parked on the side of road')"}
+{"filename": "./train/104.158.244.132-554.jpg", "data": "('room | floor | woman | living room | hallway | girl | boy | child | video game | wii | person | play | walk | stand | young | little', 'a young girl playing a video game stands in the hallway of a living room while a woman walks by on the floor')"}
+{"filename": "./train/104.158.25.30-443.jpg", "data": "('house | road | street | car | park | white', 'a white car parked in front of a house')"}
+{"filename": "./train/104.158.88.146-554.jpg", "data": "('room | ceiling fan | couch | fan | living room | chair | tv | screen tv | television | photo | black', 'a black and white photo of a living room with a couch, chair, tv and ceiling fan')"}
+{"filename": "./train/104.163.130.125-554.jpg", "data": "('room | floor | laundry | pillow | paper | bed | toilet paper | mess | dirty', 'a messy room with a bed, pillows, toilet paper and a mess on the floor')"}
+{"filename": "./train/104.163.169.14-554.jpg", "data": "('shelf | room | table | counter | bottle | display case | glass | fill', 'a room filled with shelves filled with bottles and glasses')"}
+{"filename": "./train/104.195.137.117-554.jpg", "data": "('building | room | hallway | door | black', 'a hallway with a door that leads to another room')"}
+{"filename": "./train/104.195.157.132-554.jpg", "data": "('backyard | house | yard | fence | trailer | shed | toilet', 'a backyard with a toilet on a trailer next to a fence')"}
+{"filename": "./train/104.200.4.2-554.jpg", "data": "('room | floor | cat | living room | ball | house | dog | tv | dog bed | toy | television', 'a room in a house with a dog bed on the floor and a cat on a ball in front of the tv')"}
+{"filename": "./train/104.200.94.63-554.jpg", "data": "('kitchen | room | refrigerator | counter | dog | fridge | sink | sit | small', 'a small kitchen with a dog sitting at the sink')"}
+{"filename": "./train/104.205.137.146-8080.jpg", "data": "('garage | vehicle | car | photo | park | black', 'a black and white photo of a car in a garage')"}
+{"filename": "./train/104.205.68.159-554.jpg", "data": "('stairwell | room | table | floor | house | chair | stair | staircase | black', 'a black and white view of a room with stairs, a table and a chair')"}
+{"filename": "./train/104.205.68.159-80.jpg", "data": "('stairwell | room | floor | house | light | stair | staircase | black', 'a black and white shot of a stairwell from the second floor of a house')"}
+{"filename": "./train/104.218.124.61-554.jpg", "data": "('kitchen | counter | appliance | microwave | cabinet | wooden | large', 'a kitchen with wooden cabinets and a microwave')"}
+{"filename": "./train/104.221.14.92-554.jpg", "data": "('kitchen | room | bathroom | hallway | house | door | picture | bedroom | photo | small | black', 'a black and white photo of a hallway between a bedroom, a bathroom, and a small kitchen')"}
+{"filename": "./train/104.221.23.215-554.jpg", "data": "('kitchen | room | living room | house | chair | stair | picture | photo | black', 'a black and white photo of a room with stairs, kitchen and living room')"}
+{"filename": "./train/104.221.24.8-80.jpg", "data": "('night | plane | airplane | moon | sky | fly | dark', 'an airplane flying in the dark sky at night')"}
+{"filename": "./train/104.221.26.72-554.jpg", "data": "('kitchen | refrigerator | picture | sink | cabinet | white', 'a picture of a kitchen with a sink and refrigerator')"}
+{"filename": "./train/104.221.36.92-554.jpg", "data": "('building | rain | window | tree', 'a view of a building through a window')"}
+{"filename": "./train/104.221.5.167-554.jpg", "data": "('rain | curtain | train | water | glass | window', 'a window in a train with rain on the glass')"}
+{"filename": "./train/104.221.63.45-80.jpg", "data": "('room | living room | wall | fill', 'a room filled with lots of clutter and clutter')"}
+{"filename": "./train/104.222.121.144-80.jpg", "data": "('building | sidewalk | house | road | street | car | tree | roof | red', 'a street with a red roof and cars on the road')"}
+{"filename": "./train/104.243.223.162-8082.jpg", "data": "('building | house | mountain | town | road | area | window | small | white', 'a view from a window of a small town with white houses and mountains in the distance')"}
+{"filename": "./train/104.247.246.129-554.jpg", "data": "('room | mirror | cat | picture | white', 'a blurry picture of a cat in a room')"}
+{"filename": "./train/104.251.35.50-554.jpg", "data": "('room | couch | living room | house | chair | furniture | tv | laptop | person | man | television | sit', 'a room in a house that has a couch, chair, television, and a person sitting down on a laptop')"}
+{"filename": "./train/104.254.10.29-554.jpg", "data": "('room | couch | living room | person | man | stand', 'a man standing in a living room next to a couch')"}
+{"filename": "./train/104.36.175.197-554.jpg", "data": "('baby | crib | sleep', 'a baby is sleeping in a crib')"}
+{"filename": "./train/107.159.3.125-554.jpg", "data": "('dining room | kitchen | room | kitchen table | table | house | chair | dining room table | picture | photo | dark | black', 'a black and white picture of a dark room with a table and chairs in the kitchen')"}
+{"filename": "./train/107.159.40.40-554.jpg", "data": "('bag | white | black', 'a black and white of a bunch of items in a storage room')"}
+{"filename": "./train/107.159.80.180-81.jpg", "data": "('fog | rain | house | light | street | car | window | sky', 'a window of a car on a street with fog in the sky')"}
+{"filename": "./train/107.171.217.185-554.jpg", "data": "('room | floor | home | house | stair | staircase', 'a spiral staircase in a room on the second floor of a home')"}
+{"filename": "./train/107.171.243.174-10554.jpg", "data": "('reflection | sign | picture | number', 'a picture of a sign on a microwave door')"}
+{"filename": "./train/107.171.252.181-554.jpg", "data": "('room | floor | mirror | bathroom | door | wood floor | picture | sink | photo | black', 'a black and white photo of a bathroom with wood floors and a sink and mirror')"}
+{"filename": "./train/107.189.242.134-80.jpg", "data": "('rain | night | fire hydrant | parking lot | picture | street | car | bench | tree | photo | park | sit | black', 'a black and white photo of a street at night with cars parked in the parking lot and a tree and fire hydrant')"}
+{"filename": "./train/107.190.103.170-554.jpg", "data": "('night | image | light | sun | picture | car | photo | shine | show | bright', 'the image shows a car at night with a bright light')"}
+{"filename": "./train/107.190.109.13-554.jpg", "data": "('room | couch | floor | living room | house | tv | television | large', 'a living room with a large couch and a tv on the floor')"}
+{"filename": "./train/107.190.21.100-554.jpg", "data": "('building | night | light | black', 'a black and white shot of a building at night')"}
+{"filename": "./train/107.190.22.214-554.jpg", "data": "('ocean | body | house | water | beach | window | hole | sky | fly', 'a hole in the sky flying over a beach and ocean')"}
+{"filename": "./train/107.190.49.59-443.jpg", "data": "('step | night | cat | house | door | stair | walk | black', 'a black and white cat walking up stairs at night')"}
+{"filename": "./train/107.190.49.59-80.jpg", "data": "('floor | cat | hallway | house | door | light | window | wall | dark | black', 'a hallway with a black cat on the floor and light coming in the window')"}
+{"filename": "./train/107.190.62.92-554.jpg", "data": "('room | table | couch | living room | house | chair | picture | bottle', 'a room with a couch, table, chairs and bottles')"}
+{"filename": "./train/107.190.88.157-554.jpg", "data": "('room | bed | bunk bed | bedroom | dark', 'a dark bedroom with a bunk bed in it')"}
+{"filename": "./train/108.168.18.195-554.jpg", "data": "('night | house | street | car | man | snow | photo | park', 'a car parked in front of a house in the snow at night')"}
+{"filename": "./train/108.168.21.34-554.jpg", "data": "('book | room | pillow | bed | box | sheet | bedroom | black', 'a black and white bedroom with a bed with sheets and pillows')"}
+{"filename": "./train/108.168.23.87-554.jpg", "data": "('cage | pillow | bed | dog | sleep | lay | white | black', 'a white dog sleeping in a cage on top of a white pillow')"}
+{"filename": "./train/108.168.84.139-554.jpg", "data": "('room | bed | chair | hospital bed | picture | wall | bedroom', 'a picture of a room with a bed and a chair')"}
+{"filename": "./train/108.170.152.75-554.jpg", "data": "('room | bed | child | teddy bear | window | animal | sleep | lay | lay on | black', 'a child sleeping in a room with a teddy bear laying on a bed')"}
+{"filename": "./train/108.170.155.99-554.jpg", "data": "('darkness | step | room | light | stair | staircase | dark', 'a dark room with steps and a light')"}
+{"filename": "./train/108.170.156.36-554.jpg", "data": "('room | table | couch | floor | living room | chair | furniture | picture | window | fill | white', 'a living room filled with furniture and a white couch and chair next to a window')"}
+{"filename": "./train/108.170.161.98-8086.jpg", "data": "('night | field | night sky | light | moon | sky | dark', 'a field at night with the moon in the dark sky')"}
+{"filename": "./train/108.170.173.139-554.jpg", "data": "('building | night | sign | light | window | photo | toilet | sit | black', 'a black and white photo of a toilet sitting outside of a building at night')"}
+{"filename": "./train/108.170.175.246-554.jpg", "data": "('room | bathroom | light | picture | sink | wall | photo | toilet | small | white | black', 'a black and white photo of a small bathroom with a sink and toilet')"}
+{"filename": "./train/108.172.124.153-8000.jpg", "data": "('jeep | garage | house | vehicle | driveway | car | truck | park', 'a car and jeep parked in the driveway of a house')"}
+{"filename": "./train/108.172.41.150-8096.jpg", "data": "('image | collage | picture | photograph | pool | photo | show | several', 'a collage of photos showing several different pools')"}
+{"filename": "./train/108.174.29.106-8086.jpg", "data": "('building | garage | room | car park | parking garage | parking | parking lot | car | basement | park | fill | empty | white | large | few', 'a large empty parking garage with a few cars parked in it and a white car parked in the basement of the building')"}
+{"filename": "./train/108.174.29.106-8090.jpg", "data": "('building | garage | parking garage | parking | vehicle | parking lot | car | photo | park | fill | empty', 'a photo of an empty parking garage filled with cars parked in the garage')"}
+{"filename": "./train/108.174.29.106-8097.jpg", "data": "('garage | parking garage | parking | vehicle | parking lot | car | park | fill | several | black', 'a parking garage filled with cars and several other vehicles parked in it')"}
+{"filename": "./train/108.174.29.106-8098.jpg", "data": "('floor | parking garage | parking lot | car | arrow | point | empty | yellow', 'an empty parking garage with a yellow arrow pointing to the left')"}
+{"filename": "./train/108.174.29.106-8103.jpg", "data": "('bicycle | building | bike | garage | room | parking garage | parking lot | car | park | fill | empty | several | large', 'a large parking garage filled with cars and several bikes parked in it')"}
+{"filename": "./train/108.174.29.106-8108.jpg", "data": "('building | garage | room | floor | parking garage | light | parking lot | basement | empty | large', 'an empty room with a large parking garage with lights on the floor')"}
+{"filename": "./train/108.174.29.106-8112.jpg", "data": "('sidewalk | machine | parking meter | street | yellow', 'a yellow parking meter on the side of a street')"}
+{"filename": "./train/108.59.70.250-554.jpg", "data": "('room | mirror | bathroom | house | ceiling | wall | photo | black', 'a black and white photo of a bathroom with a mirror on the wall')"}
+{"filename": "./train/108.63.251.108-8081.jpg", "data": "('curve | night | street light | house | light | road | picture | street | photo | dark | black', 'a black and white photo of a dark street at night with a house on a curve')"}
+{"filename": "./train/130.15.115.140-8888.jpg", "data": "('computer screen | screen | temperature | number | television | show', 'a computer screen showing numbers and temperature')"}
+{"filename": "./train/130.179.230.128-8080.jpg", "data": "('pizza | room | table | sit', 'a pizza sitting on top of a pizza pan')"}
+{"filename": "./train/132.204.12.27-80.jpg", "data": "('paper | black', 'a close up of a piece of paper')"}
+{"filename": "./train/132.207.191.210-80.jpg", "data": "('blue', 'a cell phone that is sitting on the ground')"}
+{"filename": "./train/132.207.191.216-80.jpg", "data": "('planet | image | star | night sky | moon | sky | show', 'an image of the night sky showing the moon and stars')"}
+{"filename": "./train/134.41.233.38-8080.jpg", "data": "('man', 'a man is in the dark holding a cell phone')"}
+{"filename": "./train/135.0.103.133-554.jpg", "data": "('room | floor | bed | chair | picture | wall | bedroom | small', 'a small bedroom with a bed, chair and pictures on the wall')"}
+{"filename": "./train/135.0.26.70-554.jpg", "data": "('bike | garage | van | room | vehicle | car | truck | park | narrow', 'a narrow garage with a car, truck, and bike parked in it')"}
+{"filename": "./train/135.12.129.215-554.jpg", "data": "('shelf | book | bookshelf | room | living room | tv | screen tv | picture | wall | television | photo | flat | small | black', 'a black and white photo of a small living room with a flat screen tv on the wall and bookshelves on the shelves')"}
+{"filename": "./train/135.12.141.158-554.jpg", "data": "('dining room | room | table | dining table | living room | chair | picture | people | man | sit | small | blue', 'a picture of a living room with a small dining table and chairs and a man sitting at the table')"}
+{"filename": "./train/135.12.149.5-8888.jpg", "data": "('room | couch | woman | living room | chair | furniture | apartment | person | man | walk | stand | black', 'a living room with black furniture and a woman walking into the room and a man standing behind the couch')"}
+{"filename": "./train/135.12.150.120-554.jpg", "data": "('dining room | kitchen | room | table | mirror | living room | chair | furniture | picture | small', 'a small room with a table, chairs, mirror, and kitchen')"}
+{"filename": "./train/135.12.177.105-554.jpg", "data": "('baby | nursery | room | chair | crib | wall | white | black', 'a room with a crib, chair, and baby in black and white')"}
+{"filename": "./train/135.12.177.249-554.jpg", "data": "('room | table | desk | mirror | living room | chair | furniture | picture | bedroom | photo | small | black', 'a black and white photo of a small room with a desk, chair, mirror and other furniture')"}
+{"filename": "./train/135.12.178.219-554.jpg", "data": "('room | table | couch | floor | living room | dog | furniture | wood floor | wooden', 'a living room with wooden floors and a couch and table')"}
+{"filename": "./train/135.19.148.209-554.jpg", "data": "('night | flower | street light | street | car | window | park | drive | yellow', 'a car driving down a street at night through a window')"}
+{"filename": "./train/135.19.171.93-554.jpg", "data": "('pillow | bed | boy | child | sheet | person | sleep | lay | sleep on | young | white | little | black', 'a young person sleeping in a bed with white sheets and pillows')"}
+{"filename": "./train/135.19.252.253-554.jpg", "data": "('kitchen | room | table | floor | living room | chair | furniture | picture | photo | black', 'a black and white photo of a living room and kitchen with a table and chairs')"}
+{"filename": "./train/135.23.114.86-554.jpg", "data": "('kitchen | kitchen table | table | refrigerator | house | chair | dining room table | fridge | picture | photo | sit | black', 'a black and white photo of a kitchen with a table, chairs, refrigerator and a dining room table')"}
+{"filename": "./train/135.23.115.138-80.jpg", "data": "('moon', 'a view of the moon in the dark')"}
+{"filename": "./train/135.23.116.184-80.jpg", "data": "('garage | room | door | wall | tool | fill', 'a room filled with lots of tools and clutter')"}
+{"filename": "./train/135.23.120.114-554.jpg", "data": "('table | deck | backyard | chair | umbrella | patio | fence | wooden | small', 'a backyard with a small table and chairs and a wooden fence')"}
+{"filename": "./train/135.23.130.10-8888.jpg", "data": "('shadow | clock | room | ceiling fan | blade | light | picture | scissor | wall', 'a picture of a ceiling fan with a shadow of scissors on the wall')"}
+{"filename": "./train/135.23.166.227-554.jpg", "data": "('baby | night | room | pillow | bed | child | crib | bedroom | photo | sleep | lay | small | white | black', 'a black and white photo of a bedroom with a small child sleeping in the bed')"}
+{"filename": "./train/135.23.210.45-554.jpg", "data": "('darkness | light | black', 'there is a light in the darkness')"}
+{"filename": "./train/135.23.222.51-554.jpg", "data": "('room | bed | door | window | bedroom | photo | small | black', 'a black and white photo of a small room with a bed')"}
+{"filename": "./train/135.23.58.128-554.jpg", "data": "('kitchen | room | ceiling fan | light | ceiling', 'a ceiling fan with a light on in a room')"}
+{"filename": "./train/135.23.68.233-80.jpg", "data": "('room | mirror | bathroom | picture | sink | photograph | window | wall | bathtub | tub | photo | old | black', 'a black and white photo of an old bathroom with a sink, mirror, tub and window')"}
+{"filename": "./train/135.23.83.157-554.jpg", "data": "('building | store | shelf | room | couch | pillow | bed | furniture | picture | bench | shop | wall | photo | fill | black', 'a black and white photo of a shop filled with furniture and shelves and a couch with pillows on the wall')"}
+{"filename": "./train/137.175.183.161-554.jpg", "data": "('room | light | ceiling | wall | dark | black', 'a dark room with a light coming from the ceiling')"}
+{"filename": "./train/137.175.217.192-554.jpg", "data": "('baby | doll | room | bed | child | bedroom | black', 'a child in a black and white bedroom with a doll on the bed')"}
+{"filename": "./train/137.175.227.5-554.jpg", "data": "('backyard | tent | trampoline | yard | grass | shade | green | blue', 'a blue tent in a backyard with green grass')"}
+{"filename": "./train/137.175.246.62-554.jpg", "data": "('room | floor | hallway | wood floor | picture | wall | photo | empty | wooden | black', 'a black and white photo of an empty room with a wooden floor')"}
+{"filename": "./train/137.186.126.67-9090.jpg", "data": "('building | night | city | light | parking lot | car | photo', 'a city at night with cars in the parking lot')"}
+{"filename": "./train/137.186.175.31-554.jpg", "data": "('kitchen | room | office | bathroom | door | light | wall | small', 'a small room with a door to a bathroom')"}
+{"filename": "./train/137.186.202.242-83.jpg", "data": "('room | gym | people | large', 'a group of people working out in a gym')"}
+{"filename": "./train/137.82.3.49-80.jpg", "data": "('building | night | office building | light | window | photo | tall | black', 'a black and white photo of a tall building at night')"}
+{"filename": "./train/138.229.120.194-554.jpg", "data": "('night | hand | light | picture | photo | shine | black', 'a black and white photo of a hand with a light shining on it')"}
+{"filename": "./train/142.112.65.17-80.jpg", "data": "('harbor | boat | pier | water | dock | marina | fill | small | many | several', 'a small harbor filled with many boats next to a pier')"}
+{"filename": "./train/142.114.140.154-554.jpg", "data": "('store | aisle | food | grocery store | fill', 'an aisle in a grocery store filled with food')"}
+{"filename": "./train/142.114.140.238-554.jpg", "data": "('store | shelf | drink | aisle | product | grocery store | shop | fill', 'an aisle in a grocery store filled with products and drinks')"}
+{"filename": "./train/142.114.208.190-80.jpg", "data": "('office chair | office | desk | chair | man | sit | sit in', 'a man sitting in an office chair in front of a desk')"}
+{"filename": "./train/142.117.237.134-1024.jpg", "data": "('van | road | grass | street | car | park | white', 'a white van parked on the side of the road')"}
+{"filename": "./train/142.134.229.69-8086.jpg", "data": "('store | image | mirror | reflection | picture | people | person | man | photo', 'a person taking a photo of their reflection in a mirror in a store')"}
+{"filename": "./train/142.134.58.127-554.jpg", "data": "('garden | deck | backyard | house | yard | patio | porch | bench | plant | wooden | small', 'a small backyard with a wooden bench and a small garden with potted plants')"}
+{"filename": "./train/142.150.127.158-80.jpg", "data": "('night | moon | black', 'the moon at night with a black background')"}
+{"filename": "./train/142.150.127.165-80.jpg", "data": "('room | mirror | cat | reflection | door | tv | picture | wall | television | photo | sit', 'a cat sitting in front of a tv in a room with a mirror on the wall')"}
+{"filename": "./train/142.160.123.225-80.jpg", "data": "('table | deck | backyard | house | chair | umbrella | yard | patio | small | outdoor', 'an outdoor patio with a small table and chairs and an umbrella')"}
+{"filename": "./train/142.160.77.223-554.jpg", "data": "('room | floor | home | living room | house | door | stair | picture | staircase | plant | photo | black', 'a black and white photo of a house from above, looking down at a staircase, plants, and a door on the second floor')"}
+{"filename": "./train/142.160.81.44-554.jpg", "data": "('kitchen | room | bed | house | door | light | picture | plant | window | bedroom | photo | black', 'a black and white photo of a room in a house with a bed, a window, a door and a potted plant')"}
+{"filename": "./train/142.160.94.27-554.jpg", "data": "('room | floor | home | house | door | stair | staircase | plant | photo | black', 'a black and white photo of a house with a staircase, plants, and a door')"}
+{"filename": "./train/142.160.95.83-554.jpg", "data": "('room | balloon | living room | house | door | light | sun | plant | window | bedroom | open', 'the sun is coming through the window of a house and into a living room with a potted plant and an open door')"}
+{"filename": "./train/142.161.137.125-554.jpg", "data": "('room | table | floor | living room | chair | furniture | tv | wood floor | screen tv | wall | television | empty | flat | large', 'an empty room with hard wood floors and a large flat screen tv on the wall')"}
+{"filename": "./train/142.163.116.10-80.jpg", "data": "('building | office building | construction | industrial | new | large', 'a large office building under construction')"}
+{"filename": "./train/142.163.117.34-80.jpg", "data": "('building | night | reflection | house | window', 'a reflection of a house in a window')"}
+{"filename": "./train/142.165.188.62-554.jpg", "data": "('desk | computer | box | laptop | electronic', 'a desk with a laptop and other electronics')"}
+{"filename": "./train/142.165.224.86-554.jpg", "data": "('', 'a black background with a text area in the middle')"}
+{"filename": "./train/142.166.196.66-80.jpg", "data": "('number', 'a bunch of numbers on a black background')"}
+{"filename": "./train/142.166.203.68-80.jpg", "data": "('table | body | chair | water | lake | bench | sit', 'a bench and a table sitting next to a body of water')"}
+{"filename": "./train/142.166.205.42-80.jpg", "data": "('number', 'the number of protons in an element is equal to the number of neutrons in that element')"}
+{"filename": "./train/142.166.41.27-80.jpg", "data": "('dirt | bus | field | road | hill | tv | dirt road | grass | car | television | sit | old', 'an old tv sits in the middle of a field of dirt, grass, and a bus')"}
+{"filename": "./train/142.167.113.2-80.jpg", "data": "('night | night sky | moon | sky | dark | black', 'the moon in the black sky at night')"}
+{"filename": "./train/142.167.113.44-80.jpg", "data": "('woman | cat | tie | picture | man | stand | dark | black', 'a black and white picture of a man standing next to a cat')"}
+{"filename": "./train/142.167.124.152-80.jpg", "data": "('night | umbrella | water | bench | photo | black', 'a black and white photo of a bench and water')"}
+{"filename": "./train/142.167.38.167-9090.jpg", "data": "('room | hallway | house | door | stair | staircase | window | lead | black | some', 'a black and white hallway leading up to some stairs and a door')"}
+{"filename": "./train/142.167.97.96-80.jpg", "data": "('fire hydrant | driveway | road | dog | fence | street | area | tree', 'a fenced in area with a fire hydrant, driveway and trees')"}
+{"filename": "./train/142.169.230.147-8081.jpg", "data": "('floor | wire | reflection | light | water | sun | picture | smoke | shine | reflect', 'the reflection of the sun shining through smoke and wires on the floor')"}
+{"filename": "./train/142.176.198.174-82.jpg", "data": "('building | room | gym | several | large', 'a large room with several exercise machines in it')"}
+{"filename": "./train/142.177.110.224-8080.jpg", "data": "('night | light | road | street | car', 'a car that is driving down a road at night')"}
+{"filename": "./train/142.177.82.43-80.jpg", "data": "('mirror | bathroom | reflection | water | picture | glass | window | wall | toilet | dirty', 'a dirty bathroom with a toilet, mirror, and reflection of a window')"}
+{"filename": "./train/142.179.35.194-5555.jpg", "data": "('house | cabin | road | forest | lake | dirt road | wood | tree | small | little', 'a dirt road in the woods with a little house on the side of the road and a lake in the distance')"}
+{"filename": "./train/142.179.39.18-554.jpg", "data": "('building | plane | field | fence | airplane | grass | airport | sky | park | sit | fly | green | small', 'an airport with a small plane sitting on top of a green field of grass')"}
+{"filename": "./train/142.184.51.59-1024.jpg", "data": "('fog | backyard | lawn | yard | dog | fence | grass', 'a dog in a backyard with fog in the grass')"}
+{"filename": "./train/142.217.1.69-554.jpg", "data": "('night | image | light | water | car | show | black', 'a black and white image of a car at night')"}
+{"filename": "./train/142.217.122.227-554.jpg", "data": "('room | living room | hallway | door | ceiling | tv | picture | window | wall | television | white', 'a hallway with white walls and ceiling and a tv on the wall above the door')"}
+{"filename": "./train/142.217.131.51-8888.jpg", "data": "('building | kitchen | room | table | floor | hallway | chair | light | wall | person | walk | dark', 'a dark hallway in a building with a person walking down the hallway and tables and chairs on the floor')"}
+{"filename": "./train/142.217.143.178-554.jpg", "data": "('room | bed | bottle | window | bedroom | small | white | black', 'a bedroom with a bed and a window in black and white')"}
+{"filename": "./train/142.217.200.174-554.jpg", "data": "('room | radio | machine | old | black', 'a black and white room with an old radi

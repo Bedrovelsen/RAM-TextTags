@@ -13,4 +13,4 @@ result = client.predict(
     "",  # str in 'User Specified Tags (Optional, separated by comma)' Textbox component
     fn_index=3
 )
-print("{\"filename\": \"%s\", \"data\": \"%s\"}" % (filename, result))
+print("{\"filename\": \"%s\", \"data\": \"%s\"}," % (filename, result))

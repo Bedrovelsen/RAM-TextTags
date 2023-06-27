@@ -721,7 +721,7 @@
     },
     {
         "filename": "./train/161.129.81.30-554.jpg",
-        "data": "('stomach | person | man | black', 'a black and white shot of a person's stomach')"
+        "data": "('stomach | person | man | black', 'a black and white shot of a persons stomach')"
     },
     {
         "filename": "./train/161.184.226.85-8888.jpg",
@@ -821,7 +821,7 @@
     },
     {
         "filename": "./train/166.62.240.55-554.jpg",
-        "data": "('baby | room | vase | table | rose | flower | bed | chair | crib | photo | sit | white | black', "a black and white photo of a baby's crib with a chair and a table with a vase of flowers")"
+        "data": "('baby | room | vase | table | rose | flower | bed | chair | crib | photo | sit | white | black', 'a black and white photo of a babys crib with a chair and a table with a vase of flowers')"
     },
     {
         "filename": "./train/170.10.241.166-554.jpg",
@@ -1333,7 +1333,7 @@
     },
     {
         "filename": "./train/174.112.140.202-554.jpg",
-        "data": "('room | bed | mattress | chair | bunk bed | wooden', "a wooden bunk bed in a child's room")"
+        "data": "('room | bed | mattress | chair | bunk bed | wooden', 'a wooden bunk bed in a childs room')"
     },
     {
         "filename": "./train/174.112.149.178-554.jpg",
@@ -1893,7 +1893,7 @@
     },
     {
         "filename": "./train/184.161.217.254-554.jpg",
-        "data": "('baby | room | floor | pillow | bed | mattress | crib | toy | animal | small', "a small bed in a child's room with stuffed animals and toys on the floor")"
+        "data": "('baby | room | floor | pillow | bed | mattress | crib | toy | animal | small', 'a small bed in a childs room with stuffed animals and toys on the floor')"
     },
     {
         "filename": "./train/184.161.22.105-554.jpg",
@@ -2269,7 +2269,7 @@
     },
     {
         "filename": "./train/198.254.171.16-80.jpg",
-        "data": "('image | screenshot', "a screenshot of a cell phone's settings")"
+        "data": "('image | screenshot', 'a screenshot of a cell phones settings')"
     },
     {
         "filename": "./train/198.48.216.61-554.jpg",
@@ -2353,7 +2353,7 @@
     },
     {
         "filename": "./train/199.216.240.67-8888.jpg",
-        "data": "('black', "black is the new black - - and it's here to stay")"
+        "data": "('black', 'black is the new black - - and its here to stay')"
     },
     {
         "filename": "./train/199.247.245.16-554.jpg",
@@ -3873,7 +3873,7 @@
     },
     {
         "filename": "./train/68.145.38.128-554.jpg",
-        "data": "('elephant | room | balloon | toy', "a child's play area with balloons and toys")"
+        "data": "('elephant | room | balloon | toy', 'a childs play area with balloons and toys')"
     },
     {
         "filename": "./train/68.146.138.11-554.jpg",

@@ -1,0 +1,2370 @@
+[
+  {
+    "filename": "./test/23.16.21.20-554.jpg",
+    "data": {
+      "tags": [
+        "lawn",
+        "house",
+        "driveway",
+        "yard",
+        "grass",
+        "car",
+        "park",
+        "green"
+      ],
+      "caption": "a car parked in the driveway of a house with green grass"
+    }
+  },
+  {
+    "filename": "./test/23.16.248.213-8080.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "vase",
+        "table",
+        "couch",
+        "cat",
+        "living room",
+        "chair",
+        "picture",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a living room with a cat on the couch and a table with a vase on it"
+    }
+  },
+  {
+    "filename": "./test/23.16.93.119-3128.jpg",
+    "data": {
+      "tags": [
+        "reflection",
+        "house",
+        "road",
+        "street",
+        "window"
+      ],
+      "caption": "a view of a street from a window"
+    }
+  },
+  {
+    "filename": "./test/23.17.174.204-8080.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "bathroom",
+        "door",
+        "window",
+        "wall",
+        "white"
+      ],
+      "caption": "a door to a bathroom with a white wall"
+    }
+  },
+  {
+    "filename": "./test/23.233.105.244-554.jpg",
+    "data": {
+      "tags": [
+        "curtain",
+        "room",
+        "door",
+        "light",
+        "glass door",
+        "lamp",
+        "window",
+        "open",
+        "dark",
+        "small",
+        "white",
+        "open"
+      ],
+      "caption": "a dark room with an open door and white curtains and a small lamp"
+    }
+  },
+  {
+    "filename": "./test/23.233.118.69-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "couch",
+        "living room",
+        "chair",
+        "door",
+        "furniture",
+        "tv",
+        "screen tv",
+        "television",
+        "flat",
+        "large"
+      ],
+      "caption": "a living room with a large tv, a couch, chairs, and a door"
+    }
+  },
+  {
+    "filename": "./test/23.233.226.69-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "table",
+        "couch",
+        "floor",
+        "living room",
+        "chair",
+        "furniture",
+        "picture",
+        "plant",
+        "photo",
+        "white",
+        "black"
+      ],
+      "caption": "a black and white picture of a living room with a couch, chair, table, and potted plant"
+    }
+  },
+  {
+    "filename": "./test/23.233.42.50-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "floor",
+        "bed",
+        "blanket",
+        "child",
+        "bedroom",
+        "sleep",
+        "small",
+        "blue"
+      ],
+      "caption": "a small child sleeping in a bedroom with a blue blanket"
+    }
+  },
+  {
+    "filename": "./test/23.233.43.36-554.jpg",
+    "data": {
+      "tags": [
+        "home",
+        "vehicle",
+        "driveway",
+        "street",
+        "car",
+        "park"
+      ],
+      "caption": "a car parked in the driveway of a home"
+    }
+  },
+  {
+    "filename": "./test/23.233.46.176-554.jpg",
+    "data": {
+      "tags": [
+        "baby",
+        "night",
+        "bed",
+        "dog",
+        "child",
+        "crib",
+        "sleep",
+        "black"
+      ],
+      "caption": "a baby and a dog sleeping in a crib at night"
+    }
+  },
+  {
+    "filename": "./test/23.233.56.107-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "floor",
+        "blanket",
+        "closet",
+        "crib",
+        "toy",
+        "bedroom",
+        "small"
+      ],
+      "caption": "a small bedroom with a crib and toys on the floor"
+    }
+  },
+  {
+    "filename": "./test/23.233.9.132-554.jpg",
+    "data": {
+      "tags": [
+        "kitchen",
+        "room",
+        "living room",
+        "ceiling",
+        "picture",
+        "wall"
+      ],
+      "caption": "a picture of a kitchen and a living room"
+    }
+  },
+  {
+    "filename": "./test/23.233.9.222-83.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "people",
+        "man",
+        "play",
+        "dark",
+        "black"
+      ],
+      "caption": "a man playing in the dark at night"
+    }
+  },
+  {
+    "filename": "./test/23.235.65.21-80.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "water",
+        "cloud",
+        "man",
+        "sky",
+        "photo",
+        "fly",
+        "dark",
+        "cloudy",
+        "black"
+      ],
+      "caption": "a black and white photo of a man flying through a cloudy sky"
+    }
+  },
+  {
+    "filename": "./test/23.235.68.203-80.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "image",
+        "reflection",
+        "stage",
+        "light",
+        "person",
+        "man",
+        "photo",
+        "play",
+        "black"
+      ],
+      "caption": "a black and white photo of a man playing the stage at night"
+    }
+  },
+  {
+    "filename": "./test/23.248.118.66-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "floor",
+        "hallway",
+        "house",
+        "door",
+        "stair",
+        "picture",
+        "staircase",
+        "photo",
+        "lead",
+        "long",
+        "black"
+      ],
+      "caption": "a black and white photo of a long hallway leading up to the second floor of a house"
+    }
+  },
+  {
+    "filename": "./test/24.104.175.215-554.jpg",
+    "data": {
+      "tags": [
+        "yard",
+        "dog",
+        "fence",
+        "grass",
+        "gate",
+        "area",
+        "tree",
+        "green",
+        "black"
+      ],
+      "caption": "a fenced in area with green grass and trees"
+    }
+  },
+  {
+    "filename": "./test/24.104.175.222-5150.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "garage",
+        "house",
+        "road",
+        "street",
+        "car",
+        "photo",
+        "park",
+        "black"
+      ],
+      "caption": "a black and white photo of a car parked in a garage at night"
+    }
+  },
+  {
+    "filename": "./test/24.105.73.67-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "table",
+        "couch",
+        "living room",
+        "house",
+        "chair",
+        "furniture",
+        "picture",
+        "photograph",
+        "wall",
+        "photo",
+        "small",
+        "black"
+      ],
+      "caption": "a black and white photo of a living room with a couch, chair, table and pictures on the wall"
+    }
+  },
+  {
+    "filename": "./test/24.108.169.51-554.jpg",
+    "data": {
+      "tags": [
+        "surfboard",
+        "table",
+        "garden",
+        "backyard",
+        "lawn",
+        "chair",
+        "yard",
+        "patio",
+        "grass",
+        "small"
+      ],
+      "caption": "a backyard with a small patio with a surfboard and a table and chairs"
+    }
+  },
+  {
+    "filename": "./test/24.108.201.165-554.jpg",
+    "data": {
+      "tags": [
+        "image",
+        "light",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a cars exhaust"
+    }
+  },
+  {
+    "filename": "./test/24.108.58.243-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "skylight",
+        "bed",
+        "loft",
+        "light",
+        "ceiling",
+        "wooden"
+      ],
+      "caption": "a room with a wooden ceiling and a skylight"
+    }
+  },
+  {
+    "filename": "./test/24.122.103.234-554.jpg",
+    "data": {
+      "tags": [
+        "rain",
+        "water",
+        "window"
+      ],
+      "caption": "a window with rain on it"
+    }
+  },
+  {
+    "filename": "./test/24.122.118.23-554.jpg",
+    "data": {
+      "tags": [
+        "home",
+        "house",
+        "driveway",
+        "road",
+        "street",
+        "truck",
+        "park",
+        "black"
+      ],
+      "caption": "a black truck parked in the driveway of a home"
+    }
+  },
+  {
+    "filename": "./test/24.122.142.163-80.jpg",
+    "data": {
+      "tags": [
+        "pickup truck",
+        "flower",
+        "lawn",
+        "house",
+        "chair",
+        "yard",
+        "grass",
+        "truck",
+        "white"
+      ],
+      "caption": "a yard with grass and flowers and a white pickup truck"
+    }
+  },
+  {
+    "filename": "./test/24.122.148.97-554.jpg",
+    "data": {
+      "tags": [
+        "washing machine",
+        "refrigerator",
+        "door",
+        "picture",
+        "wheel",
+        "wall",
+        "white"
+      ],
+      "caption": "a picture of a door on a white refrigerator"
+    }
+  },
+  {
+    "filename": "./test/24.122.173.176-554.jpg",
+    "data": {
+      "tags": [
+        "garage door",
+        "garage",
+        "floor",
+        "vehicle",
+        "door",
+        "car",
+        "cabinet",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a garage with a car and cabinets on the floor"
+    }
+  },
+  {
+    "filename": "./test/24.122.191.214-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "couch",
+        "living room",
+        "chair",
+        "window",
+        "sit"
+      ],
+      "caption": "a living room with a couch and a chair"
+    }
+  },
+  {
+    "filename": "./test/24.122.218.197-554.jpg",
+    "data": {
+      "tags": [
+        "kitchen",
+        "floor",
+        "counter",
+        "sink",
+        "cabinet",
+        "window"
+      ],
+      "caption": "a kitchen with a sink, cabinets and a window"
+    }
+  },
+  {
+    "filename": "./test/24.122.24.202-80.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "light",
+        "black"
+      ],
+      "caption": "a black and white shot of a car dashboard at night"
+    }
+  },
+  {
+    "filename": "./test/24.122.24.202-8080.jpg",
+    "data": {
+      "tags": [
+        "table",
+        "mirror",
+        "light",
+        "toothbrush",
+        "glass",
+        "candle",
+        "black"
+      ],
+      "caption": "a toothbrush in a glass on a table in front of a mirror"
+    }
+  },
+  {
+    "filename": "./test/24.122.24.202-8090.jpg",
+    "data": {
+      "tags": [
+        "cup",
+        "vehicle",
+        "dog",
+        "box",
+        "car",
+        "window",
+        "green"
+      ],
+      "caption": "a dog in a car with a green cup in the window"
+    }
+  },
+  {
+    "filename": "./test/24.122.54.212-554.jpg",
+    "data": {
+      "tags": [
+        "door",
+        "wall"
+      ],
+      "caption": "a door is shown with the words on it"
+    }
+  },
+  {
+    "filename": "./test/24.122.57.213-554.jpg",
+    "data": {
+      "tags": [
+        "shelf",
+        "book",
+        "room",
+        "refrigerator",
+        "door",
+        "bench",
+        "photo",
+        "open",
+        "open",
+        "black"
+      ],
+      "caption": "a black and white photo of a room with the door open and books on shelves"
+    }
+  },
+  {
+    "filename": "./test/24.122.80.13-8009.jpg",
+    "data": {
+      "tags": [
+        "body",
+        "thermometer",
+        "boat",
+        "water",
+        "lake",
+        "tree",
+        "sit"
+      ],
+      "caption": "a thermometer sitting next to a tree near a body of water"
+    }
+  },
+  {
+    "filename": "./test/24.36.115.114-80.jpg",
+    "data": {
+      "tags": [
+        "table",
+        "deck",
+        "backyard",
+        "laundry",
+        "house",
+        "towel",
+        "chair",
+        "patio",
+        "dry",
+        "wooden"
+      ],
+      "caption": "a wooden deck with a chair and table with laundry drying on it"
+    }
+  },
+  {
+    "filename": "./test/24.36.117.203-554.jpg",
+    "data": {
+      "tags": [
+        "sidewalk",
+        "flower",
+        "house",
+        "street",
+        "car",
+        "plant",
+        "window"
+      ],
+      "caption": "a view of a street from a window of a house"
+    }
+  },
+  {
+    "filename": "./test/24.36.138.117-554.jpg",
+    "data": {
+      "tags": [
+        "table",
+        "backyard",
+        "chair",
+        "yard",
+        "furniture",
+        "patio",
+        "fence",
+        "wooden",
+        "black"
+      ],
+      "caption": "a backyard with a wooden fence and a black table and chairs"
+    }
+  },
+  {
+    "filename": "./test/24.36.139.208-554.jpg",
+    "data": {
+      "tags": [
+        "vehicle",
+        "road",
+        "parking lot",
+        "street",
+        "car",
+        "truck",
+        "park"
+      ],
+      "caption": "a street with cars and trucks parked on the side of the road"
+    }
+  },
+  {
+    "filename": "./test/24.36.155.201-554.jpg",
+    "data": {
+      "tags": [
+        "kitchen",
+        "room",
+        "table",
+        "stove",
+        "counter",
+        "window",
+        "pot",
+        "sit"
+      ],
+      "caption": "a kitchen with a stove, counter, and pot on the table"
+    }
+  },
+  {
+    "filename": "./test/24.36.17.90-554.jpg",
+    "data": {
+      "tags": [
+        "rain",
+        "step",
+        "sidewalk",
+        "parking meter",
+        "umbrella",
+        "stair",
+        "street",
+        "car",
+        "escalator"
+      ],
+      "caption": "looking down from an escalator onto a sidewalk with steps, cars, and a parking meter"
+    }
+  },
+  {
+    "filename": "./test/24.36.176.33-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "bed",
+        "house",
+        "chair",
+        "stair",
+        "staircase",
+        "window",
+        "person",
+        "bedroom",
+        "man",
+        "sit",
+        "sit in",
+        "sit on",
+        "dark"
+      ],
+      "caption": "a dark room with a staircase and a person sitting on a bed in a dark room with a window"
+    }
+  },
+  {
+    "filename": "./test/24.36.200.250-8046.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "mirror",
+        "light",
+        "shine"
+      ],
+      "caption": "a mirror that has a light on it"
+    }
+  },
+  {
+    "filename": "./test/24.36.45.178-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "couch",
+        "living room",
+        "tv",
+        "people",
+        "man",
+        "television",
+        "sit",
+        "sit in",
+        "sit on"
+      ],
+      "caption": "people sitting on couches in a living room watching tv"
+    }
+  },
+  {
+    "filename": "./test/24.36.52.120-554.jpg",
+    "data": {
+      "tags": [
+        "curtain",
+        "house",
+        "door",
+        "balcony",
+        "glass door",
+        "window"
+      ],
+      "caption": "a balcony with a sliding glass door and a curtain"
+    }
+  },
+  {
+    "filename": "./test/24.36.54.252-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "vase",
+        "table",
+        "couch",
+        "living room",
+        "picture",
+        "window",
+        "wall",
+        "sit"
+      ],
+      "caption": "a living room with a couch, a table with a vase and a picture on the wall"
+    }
+  },
+  {
+    "filename": "./test/24.37.145.226-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "office",
+        "people",
+        "man",
+        "hold",
+        "stand"
+      ],
+      "caption": "a man standing in the middle of a room"
+    }
+  },
+  {
+    "filename": "./test/24.37.203.138-8052.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "room",
+        "hallway",
+        "door",
+        "light",
+        "window",
+        "wall",
+        "dark",
+        "red"
+      ],
+      "caption": "a dark hallway with a red light on the wall and a door"
+    }
+  },
+  {
+    "filename": "./test/24.37.234.6-8080.jpg",
+    "data": {
+      "tags": [
+        "bridge",
+        "golf course",
+        "body",
+        "water",
+        "dusk",
+        "lake",
+        "river",
+        "tree"
+      ],
+      "caption": "a view of a golf course at dusk with a bridge over a body of water"
+    }
+  },
+  {
+    "filename": "./test/24.37.237.170-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "mirror",
+        "bathroom",
+        "door",
+        "microwave",
+        "sink",
+        "cabinet",
+        "small",
+        "white"
+      ],
+      "caption": "a small bathroom with a sink, microwave and mirror"
+    }
+  },
+  {
+    "filename": "./test/24.49.243.111-554.jpg",
+    "data": {
+      "tags": [
+        "traffic light",
+        "intersection",
+        "city street",
+        "road",
+        "street",
+        "car",
+        "small"
+      ],
+      "caption": "a small city street with cars on the road"
+    }
+  },
+  {
+    "filename": "./test/24.49.252.204-554.jpg",
+    "data": {
+      "tags": [
+        "dining room",
+        "kitchen",
+        "kitchen table",
+        "table",
+        "dining table",
+        "chair",
+        "dining room table",
+        "picture",
+        "photo",
+        "sit",
+        "wooden",
+        "black"
+      ],
+      "caption": "a black and white picture of a dining room with a wooden table and chairs and a kitchen in the background"
+    }
+  },
+  {
+    "filename": "./test/24.50.171.171-82.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "hallway",
+        "house",
+        "door",
+        "stair",
+        "lead"
+      ],
+      "caption": "a hallway with a door leading into another room"
+    }
+  },
+  {
+    "filename": "./test/24.50.81.40-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "couch",
+        "floor",
+        "living room",
+        "house",
+        "chair",
+        "stair",
+        "black"
+      ],
+      "caption": "a living room with a couch, chair and stairs to another room"
+    }
+  },
+  {
+    "filename": "./test/24.53.112.200-554.jpg",
+    "data": {
+      "tags": [
+        "baby",
+        "room",
+        "bed",
+        "child",
+        "picture",
+        "photo",
+        "sleep"
+      ],
+      "caption": "a picture of a baby sleeping in a bed"
+    }
+  },
+  {
+    "filename": "./test/24.53.17.157-554.jpg",
+    "data": {
+      "tags": [
+        "baby",
+        "room",
+        "mirror",
+        "woman",
+        "living room",
+        "stroller",
+        "chair",
+        "door",
+        "child",
+        "picture",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a room with a door and a picture of a woman with a baby in a stroller"
+    }
+  },
+  {
+    "filename": "./test/24.53.17.228-554.jpg",
+    "data": {
+      "tags": [
+        "pickup truck",
+        "night",
+        "road",
+        "truck",
+        "photo",
+        "drive"
+      ],
+      "caption": "a pickup truck driving down a road at night"
+    }
+  },
+  {
+    "filename": "./test/24.53.226.100-80.jpg",
+    "data": {
+      "tags": [
+        "mat",
+        "rug",
+        "room",
+        "floor",
+        "door",
+        "luggage",
+        "glass door",
+        "window",
+        "suitcase",
+        "black"
+      ],
+      "caption": "a room with a rug on the floor and a black suitcase in front of a sliding glass door"
+    }
+  },
+  {
+    "filename": "./test/24.53.226.100-8080.jpg",
+    "data": {
+      "tags": [
+        "mat",
+        "rug",
+        "entrance",
+        "floor",
+        "bathroom",
+        "door",
+        "luggage",
+        "glass door",
+        "suitcase",
+        "black"
+      ],
+      "caption": "an entrance to a bathroom with a rug on the floor and a black suitcase in front of the door"
+    }
+  },
+  {
+    "filename": "./test/24.53.242.75-554.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "house",
+        "light",
+        "road",
+        "picture",
+        "street",
+        "car",
+        "park",
+        "dark"
+      ],
+      "caption": "a dark picture of a car parked on the side of a road at night"
+    }
+  },
+  {
+    "filename": "./test/24.54.11.125-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "refrigerator",
+        "wire",
+        "ceiling",
+        "wall",
+        "black"
+      ],
+      "caption": "a room with a lot of black wires hanging from the ceiling"
+    }
+  },
+  {
+    "filename": "./test/24.54.53.156-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "table",
+        "bar",
+        "chair",
+        "picture",
+        "restaurant",
+        "photo",
+        "empty",
+        "black"
+      ],
+      "caption": "a black and white photo of an empty restaurant with tables and chairs"
+    }
+  },
+  {
+    "filename": "./test/24.55.193.4-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "bed",
+        "door",
+        "window",
+        "white",
+        "large"
+      ],
+      "caption": "a bed in a room with a large window"
+    }
+  },
+  {
+    "filename": "./test/24.55.236.66-554.jpg",
+    "data": {
+      "tags": [
+        "darkness",
+        "night",
+        "beam",
+        "room",
+        "door",
+        "light",
+        "window",
+        "shine",
+        "dark",
+        "black"
+      ],
+      "caption": "a beam of light from a window in a dark room at night"
+    }
+  },
+  {
+    "filename": "./test/24.57.0.141-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "bag",
+        "floor",
+        "umbrella",
+        "handle",
+        "picture",
+        "window",
+        "wall"
+      ],
+      "caption": "a picture of a bag with a handle on the floor"
+    }
+  },
+  {
+    "filename": "./test/24.57.138.171-554.jpg",
+    "data": {
+      "tags": [
+        "home",
+        "house",
+        "street",
+        "porch",
+        "window"
+      ],
+      "caption": "a view from a window of a house on a residential street"
+    }
+  },
+  {
+    "filename": "./test/24.57.163.87-554.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "garage",
+        "road",
+        "parking lot",
+        "street",
+        "car",
+        "truck",
+        "photo",
+        "park",
+        "black"
+      ],
+      "caption": "a black and white photo of cars parked in a garage at night"
+    }
+  },
+  {
+    "filename": "./test/24.57.188.49-554.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "room",
+        "light",
+        "dark",
+        "black"
+      ],
+      "caption": "a cell phone sitting in a dark room at night"
+    }
+  },
+  {
+    "filename": "./test/24.57.233.86-554.jpg",
+    "data": {
+      "tags": [
+        "building",
+        "night",
+        "cat",
+        "street sign",
+        "sign",
+        "street",
+        "window",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a street at night with a cat in the window"
+    }
+  },
+  {
+    "filename": "./test/24.57.75.209-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "table",
+        "couch",
+        "coffee table",
+        "living room",
+        "house",
+        "chair",
+        "dog",
+        "furniture",
+        "large"
+      ],
+      "caption": "a living room with a couch, chair, coffee table and a large dog"
+    }
+  },
+  {
+    "filename": "./test/24.64.100.121-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "office",
+        "desk",
+        "computer",
+        "computer monitor",
+        "chair",
+        "picture",
+        "window",
+        "wall"
+      ],
+      "caption": "a room with a desk, chair, computer and pictures on the wall"
+    }
+  },
+  {
+    "filename": "./test/24.64.161.161-1024.jpg",
+    "data": {
+      "tags": [
+        "building",
+        "home",
+        "house",
+        "window",
+        "tree",
+        "wall"
+      ],
+      "caption": "a house with a tree in front of a window"
+    }
+  },
+  {
+    "filename": "./test/24.64.175.24-3128.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "couch",
+        "living room",
+        "house",
+        "door",
+        "light",
+        "sun",
+        "glass door",
+        "window",
+        "shine",
+        "small",
+        "white"
+      ],
+      "caption": "the sun shines through a window into a small room with a couch and a sliding glass door"
+    }
+  },
+  {
+    "filename": "./test/24.64.194.71-554.jpg",
+    "data": {
+      "tags": [
+        "vase",
+        "table",
+        "flower",
+        "house",
+        "picture",
+        "wall",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a vase of flowers on a table"
+    }
+  },
+  {
+    "filename": "./test/24.64.197.10-554.jpg",
+    "data": {
+      "tags": [
+        "greenhouse",
+        "plastic",
+        "plant",
+        "pot",
+        "green",
+        "small"
+      ],
+      "caption": "a greenhouse with green plants in small pots"
+    }
+  },
+  {
+    "filename": "./test/24.64.248.34-80.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "floor",
+        "bed",
+        "blanket",
+        "sheet",
+        "person",
+        "suitcase",
+        "man",
+        "sleep",
+        "lay",
+        "lie",
+        "lay on",
+        "black"
+      ],
+      "caption": "a room with a black suitcase and a person laying in bed with a blanket on the floor"
+    }
+  },
+  {
+    "filename": "./test/24.64.69.74-554.jpg",
+    "data": {
+      "tags": [
+        ""
+      ],
+      "caption": "a black background with a red and white heart in the middle"
+    }
+  },
+  {
+    "filename": "./test/24.65.79.227-8010.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "room",
+        "computer",
+        "bed",
+        "light",
+        "tv",
+        "monitor",
+        "window",
+        "person",
+        "television",
+        "sit",
+        "sit in",
+        "sit on",
+        "dark"
+      ],
+      "caption": "a person sitting on a bed in a dark room lit by a window at night"
+    }
+  },
+  {
+    "filename": "./test/24.66.103.201-554.jpg",
+    "data": {
+      "tags": [
+        "kitchen",
+        "table",
+        "kitchen floor",
+        "tile",
+        "floor",
+        "counter",
+        "chair",
+        "restaurant",
+        "tile floor"
+      ],
+      "caption": "a kitchen with a tile floor and a counter with chairs and tables"
+    }
+  },
+  {
+    "filename": "./test/24.66.114.243-8080.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "planet",
+        "plane",
+        "image",
+        "line",
+        "light",
+        "satellite",
+        "airplane",
+        "moon",
+        "sky",
+        "blue"
+      ],
+      "caption": "an image of the moon, planet and plane in a blue sky at night"
+    }
+  },
+  {
+    "filename": "./test/24.66.115.88-554.jpg",
+    "data": {
+      "tags": [
+        "kitchen",
+        "room",
+        "ladder",
+        "pan",
+        "door",
+        "spoon",
+        "hang",
+        "black"
+      ],
+      "caption": "a kitchen with a ladder, pans and spoons hanging"
+    }
+  },
+  {
+    "filename": "./test/24.66.138.210-554.jpg",
+    "data": {
+      "tags": [
+        "rain",
+        "water",
+        "window",
+        "black"
+      ],
+      "caption": "rain on a window with a black and white background"
+    }
+  },
+  {
+    "filename": "./test/24.66.39.50-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "table",
+        "chair",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a childs room"
+    }
+  },
+  {
+    "filename": "./test/24.66.41.223-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "refrigerator",
+        "floor",
+        "living room",
+        "door",
+        "box",
+        "snake",
+        "bedroom"
+      ],
+      "caption": "a living room with a refrigerator and boxes on the floor"
+    }
+  },
+  {
+    "filename": "./test/24.67.167.96-554.jpg",
+    "data": {
+      "tags": [
+        "building",
+        "room",
+        "door",
+        "display case",
+        "glass door"
+      ],
+      "caption": "a room with a glass door and a display case"
+    }
+  },
+  {
+    "filename": "./test/24.67.5.148-554.jpg",
+    "data": {
+      "tags": [
+        "building",
+        "cell",
+        "door",
+        "sign"
+      ],
+      "caption": "a jail cell with a sign on the door"
+    }
+  },
+  {
+    "filename": "./test/24.67.65.193-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "living room",
+        "glass",
+        "headphone",
+        "phone",
+        "man",
+        "hold",
+        "stand",
+        "old",
+        "black"
+      ],
+      "caption": "an old man with glasses and headphones standing in a living room"
+    }
+  },
+  {
+    "filename": "./test/24.67.69.30-80.jpg",
+    "data": {
+      "tags": [
+        "text",
+        "system",
+        "image",
+        "diagram"
+      ],
+      "caption": "the image is a diagram of the system"
+    }
+  },
+  {
+    "filename": "./test/24.68.18.236-554.jpg",
+    "data": {
+      "tags": [
+        "kitchen",
+        "room",
+        "refrigerator",
+        "floor",
+        "bathroom",
+        "hallway",
+        "door",
+        "picture",
+        "black"
+      ],
+      "caption": "a black and white picture of a bathroom and hallway with a door to another room"
+    }
+  },
+  {
+    "filename": "./test/24.68.229.82-554.jpg",
+    "data": {
+      "tags": [
+        "kitchen",
+        "room",
+        "living room",
+        "house",
+        "light",
+        "ceiling"
+      ],
+      "caption": "the ceiling of a room in a house"
+    }
+  },
+  {
+    "filename": "./test/24.68.255.177-554.jpg",
+    "data": {
+      "tags": [
+        "wedding dress",
+        "chair",
+        "shirt",
+        "dress",
+        "sit",
+        "hang",
+        "wooden",
+        "white",
+        "black"
+      ],
+      "caption": "a white shirt sitting on top of a wooden chair"
+    }
+  },
+  {
+    "filename": "./test/24.68.30.111-554.jpg",
+    "data": {
+      "tags": [
+        "baby",
+        "pillow",
+        "white",
+        "laundry basket",
+        "basket",
+        "crib",
+        "black"
+      ],
+      "caption": "a baby in a crib in black and white"
+    }
+  },
+  {
+    "filename": "./test/24.68.81.115-554.jpg",
+    "data": {
+      "tags": [
+        "building",
+        "night",
+        "train",
+        "sign",
+        "photo",
+        "dark",
+        "black"
+      ],
+      "caption": "a black and white photo of a train at night"
+    }
+  },
+  {
+    "filename": "./test/24.68.88.115-554.jpg",
+    "data": {
+      "tags": [
+        "black",
+        "white",
+        "house",
+        "fence",
+        "car",
+        "park",
+        "old",
+        "black"
+      ],
+      "caption": "an old car parked next to a house in black and white"
+    }
+  },
+  {
+    "filename": "./test/24.69.116.11-554.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "curtain",
+        "light",
+        "window",
+        "dark",
+        "black"
+      ],
+      "caption": "a window with a curtain in the dark night"
+    }
+  },
+  {
+    "filename": "./test/24.69.44.116-554.jpg",
+    "data": {
+      "tags": [
+        "garage",
+        "van",
+        "house",
+        "door",
+        "light",
+        "car",
+        "park",
+        "white",
+        "black"
+      ],
+      "caption": "a white car parked in a garage next to a door"
+    }
+  },
+  {
+    "filename": "./test/24.69.57.222-554.jpg",
+    "data": {
+      "tags": [
+        "image",
+        "moon",
+        "sky"
+      ],
+      "caption": "an image of the moon taken by spacecraft manufacturer"
+    }
+  },
+  {
+    "filename": "./test/24.70.116.128-554.jpg",
+    "data": {
+      "tags": [
+        "garden",
+        "backyard",
+        "lawn",
+        "house",
+        "yard",
+        "gravel",
+        "grass",
+        "truck",
+        "small"
+      ],
+      "caption": "a small yard with gravel, grass, and a truck in the backyard"
+    }
+  },
+  {
+    "filename": "./test/24.70.153.30-554.jpg",
+    "data": {
+      "tags": [
+        "building",
+        "bus",
+        "road",
+        "street",
+        "window",
+        "bus stop",
+        "empty"
+      ],
+      "caption": "an empty bus stop with a building across the road"
+    }
+  },
+  {
+    "filename": "./test/24.70.220.87-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "table",
+        "floor",
+        "living room",
+        "house",
+        "chair",
+        "window",
+        "photo",
+        "small",
+        "black"
+      ],
+      "caption": "a black and white photo of a living room with a small table and chairs"
+    }
+  },
+  {
+    "filename": "./test/24.70.69.100-8081.jpg",
+    "data": {
+      "tags": [
+        "image",
+        "camera",
+        "reflection",
+        "toy car",
+        "water",
+        "picture",
+        "car",
+        "tree",
+        "black"
+      ],
+      "caption": "a black and white picture of a reflection of a car in water"
+    }
+  },
+  {
+    "filename": "./test/24.70.84.87-554.jpg",
+    "data": {
+      "tags": [
+        "kitchen",
+        "room",
+        "table",
+        "couch",
+        "home",
+        "living room",
+        "house",
+        "chair",
+        "furniture",
+        "picture",
+        "photo",
+        "fill",
+        "large",
+        "black"
+      ],
+      "caption": "a black and white photo of a living room and kitchen of a home with a large room filled with furniture"
+    }
+  },
+  {
+    "filename": "./test/24.71.108.90-554.jpg",
+    "data": {
+      "tags": [
+        "vehicle",
+        "parking lot",
+        "car",
+        "photo",
+        "park"
+      ],
+      "caption": "a photo of a car parked in a parking lot"
+    }
+  },
+  {
+    "filename": "./test/24.71.226.189-80.jpg",
+    "data": {
+      "tags": [
+        "city",
+        "flower",
+        "mountain",
+        "town",
+        "hill",
+        "large"
+      ],
+      "caption": "a view of a large town with mountains in the background"
+    }
+  },
+  {
+    "filename": "./test/24.71.94.138-1024.jpg",
+    "data": {
+      "tags": [
+        "home",
+        "house",
+        "door",
+        "yard",
+        "patio",
+        "plant",
+        "small"
+      ],
+      "caption": "a small yard with a patio and potted plants"
+    }
+  },
+  {
+    "filename": "./test/24.71.94.138-1028.jpg",
+    "data": {
+      "tags": [
+        ""
+      ],
+      "caption": "the force tattoo air force symbol tattoo"
+    }
+  },
+  {
+    "filename": "./test/24.72.46.155-8080.jpg",
+    "data": {
+      "tags": [
+        "dining room",
+        "kitchen",
+        "room",
+        "table",
+        "living room",
+        "house",
+        "chair",
+        "furniture",
+        "fireplace",
+        "fill",
+        "large"
+      ],
+      "caption": "a large room filled with furniture, including a table, chairs, and a fireplace"
+    }
+  },
+  {
+    "filename": "./test/24.75.187.6-554.jpg",
+    "data": {
+      "tags": [
+        "black"
+      ],
+      "caption": "a black background with a dark text area in the middle"
+    }
+  },
+  {
+    "filename": "./test/24.76.189.95-3128.jpg",
+    "data": {
+      "tags": [
+        "kitchen",
+        "room",
+        "refrigerator",
+        "mirror",
+        "bathroom",
+        "sink",
+        "wall",
+        "toilet",
+        "pink",
+        "small",
+        "white"
+      ],
+      "caption": "a small bathroom with a sink, toilet, refrigerator and mirror on the wall"
+    }
+  },
+  {
+    "filename": "./test/24.76.220.126-554.jpg",
+    "data": {
+      "tags": [
+        "building",
+        "sign",
+        "logo"
+      ],
+      "caption": "the logo is displayed on a glass coffee table"
+    }
+  },
+  {
+    "filename": "./test/24.76.233.86-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "couch",
+        "floor",
+        "bed",
+        "living room",
+        "luggage",
+        "bedroom",
+        "small"
+      ],
+      "caption": "a small room with a bed and luggage on the floor"
+    }
+  },
+  {
+    "filename": "./test/24.76.244.165-554.jpg",
+    "data": {
+      "tags": [
+        "building",
+        "house",
+        "driveway",
+        "door",
+        "yard",
+        "fence",
+        "bin",
+        "sit",
+        "blue"
+      ],
+      "caption": "a yard with a fence and a blue bin sitting outside of a house"
+    }
+  },
+  {
+    "filename": "./test/24.76.248.147-554.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "backyard",
+        "cat",
+        "house",
+        "door",
+        "yard",
+        "dog",
+        "fence",
+        "black"
+      ],
+      "caption": "a backyard at night with a cat on the fence and a dog in the yard"
+    }
+  },
+  {
+    "filename": "./test/24.77.1.242-554.jpg",
+    "data": {
+      "tags": [
+        "building",
+        "reflection",
+        "house",
+        "door",
+        "car",
+        "window",
+        "park"
+      ],
+      "caption": "a reflection of a car parked in the window of a house"
+    }
+  },
+  {
+    "filename": "./test/24.77.111.29-8083.jpg",
+    "data": {
+      "tags": [
+        "stairwell",
+        "room",
+        "house",
+        "stair",
+        "staircase",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a stairwell in a house"
+    }
+  },
+  {
+    "filename": "./test/24.77.137.127-554.jpg",
+    "data": {
+      "tags": [
+        "baby",
+        "bed",
+        "mattress",
+        "blanket",
+        "child",
+        "sheet",
+        "crib",
+        "person",
+        "sleep",
+        "lay",
+        "small",
+        "white",
+        "little",
+        "black"
+      ],
+      "caption": "a black and white of a small child sleeping in a crib with a white sheet on the mattress of the bed"
+    }
+  },
+  {
+    "filename": "./test/24.77.29.252-554.jpg",
+    "data": {
+      "tags": [
+        "curtain",
+        "room",
+        "circle",
+        "window",
+        "wall",
+        "black"
+      ],
+      "caption": "a black and white room with a curtain and a window"
+    }
+  },
+  {
+    "filename": "./test/24.77.36.136-83.jpg",
+    "data": {
+      "tags": [
+        "garage",
+        "home",
+        "house",
+        "driveway",
+        "yard",
+        "car",
+        "truck",
+        "park",
+        "large"
+      ],
+      "caption": "a home with a large garage and cars parked in the driveway"
+    }
+  },
+  {
+    "filename": "./test/24.77.36.254-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "sock",
+        "hallway",
+        "towel",
+        "door",
+        "luggage",
+        "foot",
+        "suitcase"
+      ],
+      "caption": "a hallway with a suitcase, towel and a sock on the door"
+    }
+  },
+  {
+    "filename": "./test/24.77.4.144-554.jpg",
+    "data": {
+      "tags": [
+        "baby",
+        "room",
+        "bed",
+        "child",
+        "crib",
+        "wall",
+        "purple",
+        "small",
+        "white"
+      ],
+      "caption": "a small child in a white room with a purple bed"
+    }
+  },
+  {
+    "filename": "./test/24.77.46.69-83.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "image",
+        "camera",
+        "light",
+        "black"
+      ],
+      "caption": "a black and white image taken at night"
+    }
+  },
+  {
+    "filename": "./test/24.78.34.167-554.jpg",
+    "data": {
+      "tags": [
+        "kitchen",
+        "room",
+        "refrigerator",
+        "living room",
+        "picture",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a kitchen and living room"
+    }
+  },
+  {
+    "filename": "./test/24.78.51.203-554.jpg",
+    "data": {
+      "tags": [
+        "water",
+        "bottle",
+        "window",
+        "hang",
+        "black"
+      ],
+      "caption": "a bottle of water hanging from the side of a window"
+    }
+  },
+  {
+    "filename": "./test/24.78.71.104-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "floor",
+        "bed",
+        "chair",
+        "door",
+        "bedroom",
+        "photo",
+        "sit",
+        "black"
+      ],
+      "caption": "a black and white photo of a bedroom with a bed and a chair on the floor"
+    }
+  },
+  {
+    "filename": "./test/24.78.95.31-554.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "image",
+        "star",
+        "light",
+        "sun",
+        "moon",
+        "sky",
+        "snow",
+        "show"
+      ],
+      "caption": "this image shows the moon and stars in the sky at night"
+    }
+  },
+  {
+    "filename": "./test/24.79.140.186-554.jpg",
+    "data": {
+      "tags": [
+        "dining room",
+        "kitchen",
+        "room",
+        "table",
+        "living room",
+        "house",
+        "chair",
+        "picture",
+        "wooden"
+      ],
+      "caption": "a picture of a room in a house with a wooden table and chairs"
+    }
+  },
+  {
+    "filename": "./test/24.79.254.25-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "table",
+        "couch",
+        "coffee table",
+        "living room",
+        "chair",
+        "furniture",
+        "picture",
+        "candle",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white picture of a living room with a couch, chair, coffee table and candles"
+    }
+  },
+  {
+    "filename": "./test/24.79.78.80-80.jpg",
+    "data": {
+      "tags": [
+        "reflection",
+        "road",
+        "parking lot",
+        "grass",
+        "street",
+        "car",
+        "tree",
+        "couple",
+        "park"
+      ],
+      "caption": "a couple of cars parked on the side of the road near a tree"
+    }
+  },
+  {
+    "filename": "./test/24.80.132.73-554.jpg",
+    "data": {
+      "tags": [
+        "black"
+      ],
+      "caption": "a black background with a dark text area in the middle"
+    }
+  },
+  {
+    "filename": "./test/24.80.152.7-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "mirror",
+        "counter",
+        "light",
+        "tv",
+        "picture",
+        "window",
+        "wall",
+        "television",
+        "photo",
+        "dark",
+        "black"
+      ],
+      "caption": "a black and white photo of a dark room with a tv, counter, and window"
+    }
+  },
+  {
+    "filename": "./test/24.80.162.231-554.jpg",
+    "data": {
+      "tags": [
+        "parking lot",
+        "street",
+        "car",
+        "park",
+        "black"
+      ],
+      "caption": "a car parked on the side of a street"
+    }
+  },
+  {
+    "filename": "./test/24.80.38.106-554.jpg",
+    "data": {
+      "tags": [
+        "couch",
+        "floor",
+        "living room",
+        "boy",
+        "laptop",
+        "man",
+        "sit",
+        "sit on",
+        "young"
+      ],
+      "caption": "a young man sitting on the floor in front of a laptop in a living room"
+    }
+  },
+  {
+    "filename": "./test/24.80.8.10-8024.jpg",
+    "data": {
+      "tags": [
+        "step",
+        "night",
+        "house",
+        "chair",
+        "stair"
+      ],
+      "caption": "a set of stairs leading up to a house at night"
+    }
+  },
+  {
+    "filename": "./test/24.84.213.176-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "woman",
+        "bed",
+        "mattress",
+        "child",
+        "person",
+        "man",
+        "lay",
+        "lie",
+        "lay on",
+        "young"
+      ],
+      "caption": "a young man and woman laying on a bed in a room"
+    }
+  },
+  {
+    "filename": "./test/24.84.220.69-554.jpg",
+    "data": {
+      "tags": [
+        "cage",
+        "cell",
+        "dog",
+        "toilet"
+      ],
+      "caption": "a cage with a dog inside of it"
+    }
+  },
+  {
+    "filename": "./test/24.84.230.223-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "bathroom",
+        "light",
+        "ceiling",
+        "wall",
+        "white"
+      ],
+      "caption": "a bathroom with white walls and a slanted ceiling"
+    }
+  },
+  {
+    "filename": "./test/24.84.230.96-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "bed",
+        "dresser",
+        "furniture",
+        "box",
+        "bedroom",
+        "large"
+      ],
+      "caption": "a bedroom with a large bed and a dresser"
+    }
+  },
+  {
+    "filename": "./test/24.85.125.146-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "table",
+        "couch",
+        "living room",
+        "furniture",
+        "picture",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a living room with a couch and table"
+    }
+  },
+  {
+    "filename": "./test/24.85.198.37-554.jpg",
+    "data": {
+      "tags": [
+        "building",
+        "sign",
+        "window",
+        "wall"
+      ],
+      "caption": "a sign that is on the side of a building"
+    }
+  },
+  {
+    "filename": "./test/24.86.132.204-80.jpg",
+    "data": {
+      "tags": [
+        "black",
+        "white",
+        "road",
+        "street",
+        "car",
+        "park",
+        "white",
+        "black"
+      ],
+      "caption": "a white car parked on the side of a road in black and white"
+    }
+  },
+  {
+    "filename": "./test/24.86.162.226-554.jpg",
+    "data": {
+      "tags": [
+        "kitchen",
+        "room",
+        "table",
+        "paper",
+        "living room",
+        "house",
+        "picture",
+        "closet"
+      ],
+      "caption": "a picture of a room in a house with a closet and a kitchen"
+    }
+  },
+  {
+    "filename": "./test/24.86.28.219-554.jpg",
+    "data": {
+      "tags": [
+        "night",
+        "deck",
+        "ramp",
+        "house",
+        "fence",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a house at night"
+    }
+  },
+  {
+    "filename": "./test/24.89.194.184-554.jpg",
+    "data": {
+      "tags": [
+        "cat",
+        "bed",
+        "blanket",
+        "sheet",
+        "person",
+        "man",
+        "sleep",
+        "lay",
+        "white",
+        "black"
+      ],
+      "caption": "a person sleeping in a bed with white sheets and a cat"
+    }
+  },
+  {
+    "filename": "./test/24.89.196.14-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "cage",
+        "cell",
+        "bed",
+        "dog",
+        "toilet",
+        "crate",
+        "small",
+        "black"
+      ],
+      "caption": "a small room with a bed, cage, and toilet"
+    }
+  },
+  {
+    "filename": "./test/24.89.206.74-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "hallway",
+        "chair",
+        "wall",
+        "green",
+        "empty",
+        "white"
+      ],
+      "caption": "an empty room with a green chair against the wall"
+    }
+  },
+  {
+    "filename": "./test/24.89.218.135-554.jpg",
+    "data": {
+      "tags": [
+        "black"
+      ],
+      "caption": "a close up of a metal object with a black and white background"
+    }
+  },
+  {
+    "filename": "./test/24.89.219.128-554.jpg",
+    "data": {
+      "tags": [
+        "baby",
+        "nursery",
+        "room",
+        "floor",
+        "mattress",
+        "crib",
+        "rail",
+        "photo",
+        "white",
+        "black"
+      ],
+      "caption": "a black and white photo of a baby in a crib with a mattress on the floor"
+    }
+  },
+  {
+    "filename": "./test/24.89.223.101-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "table",
+        "floor",
+        "living room",
+        "house",
+        "chair",
+        "furniture",
+        "picture",
+        "lamp",
+        "photo",
+        "black"
+      ],
+      "caption": "a black and white photo of a living room with a chair, table, lamp and other furniture"
+    }
+  },
+  {
+    "filename": "./test/24.89.237.138-554.jpg",
+    "data": {
+      "tags": [
+        "room",
+        "couch",
+        "living room",
+        "chair",
+        "dog",
+        "furniture",
+        "tv",
+        "screen tv",
+        "wall",
+        "television",
+        "flat"
+      ],
+      "caption": "a living room with a couch, chair, television, and a dog on the wall"
+    }
+  },
+  {
+    "filename": "./test/24.89.249.221-554.jpg",
+    "data": {
+      "tags": [
+        "house",
+        "street",
+        "window",
+        "tree"
+      ],
+      "caption": "a view of a street through a window"
+    }
+  }
+]

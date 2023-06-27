@@ -1,6 +1,13 @@
 import json
+import sys
 
-with open('test.json') as file:
+if len(sys.argv) < 2:
+    print("Please provide a filename as the first argument.")
+    sys.exit(1)
+
+inputpath = sys.argv[1]
+
+with open(inputpath) as file:
     data = json.load(file)
 
 new_data = []

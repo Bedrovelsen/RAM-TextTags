@@ -7,7 +7,8 @@ if len(sys.argv) < 2:
 
 filename = sys.argv[1]  # Get the filename from the command line arguments
 
-client = Client("https://xinyu1205-recognize-anything-tag2text.hf.space/")
+client = Client("https://xinyu1205-recognize-anything.hf.space/")
+
 result = client.predict(
     filename,  # Use the filename from the command line arguments
     "",  # str in 'User Specified Tags (Optional, separated by comma)' Textbox component

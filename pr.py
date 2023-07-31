@@ -1,18 +1,8 @@
 import json
 import sys
 
-if len(sys.argv) < 2:
-    print("Please provide a filename as the first argument.")
-    sys.exit(1)
-
-inputpath = sys.argv[1]
-
-with open(inputpath) as file:
-    data = json.load(file)
-
-new_data = []
-for item in data:
-    tags, caption = eval(item['data'])
+def reformat_data(item):
+    tags, caption = item['data']
     new_item = {
         'filename': item['filename'],
         'data': {
@@ -20,7 +10,19 @@ for item in data:
             'caption': caption.strip()
         }
     }
-    new_data.append(new_item)
+    return new_item
 
-with open('output.json', 'w') as file:
-    json.dump(new_data, file, indent=2)
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Please provide a filename as the first argument.")
+        sys.exit(1)
+
+    inputpath = sys.argv[1]
+
+    with open(inputpath) as file:
+        data = json.load(file)
+
+    new_data = [reformat_data(item) for item in data]
+
+    with open('output.json', 'w') as file:
+        json.dump(new_data, file, indent=2)

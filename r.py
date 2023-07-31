@@ -1,17 +1,21 @@
 import sys
+import json
 from gradio_client import Client
 
-if len(sys.argv) < 2:
-    print("Please provide a filename as the first argument.")
-    sys.exit(1)
+def process_file(filename):
+    client = Client("https://xinyu1205-recognize-anything.hf.space/")
+    result = client.predict(
+        filename,
+        "",
+        fn_index=3
+    )
+    return {"filename": filename, "data": result}
 
-filename = sys.argv[1]  # Get the filename from the command line arguments
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Please provide a filename as the first argument.")
+        sys.exit(1)
 
-client = Client("https://xinyu1205-recognize-anything.hf.space/")
-
-result = client.predict(
-    filename,  # Use the filename from the command line arguments
-    "",  # str in 'User Specified Tags (Optional, separated by comma)' Textbox component
-    fn_index=3
-)
-print("{\"filename\": \"%s\", \"data\": \"%s\"}," % (filename, result))
+    filename = sys.argv[1]
+    data = process_file(filename)
+    print(json.dumps(data), end=",")

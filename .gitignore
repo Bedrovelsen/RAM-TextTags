@@ -1,5 +1,9 @@
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
-hipcam/
-recognize-anything/
+hipcam/*
+recognize-anything/*
+outputtest.json
+.gitignore
+partialoutput.json
+oldrun.sh

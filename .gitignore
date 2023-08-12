@@ -1,12 +1,8 @@
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
-hipcam
-hipcam/*
-hipcam/imgs/*
-recognize-anything/*
-outputtest.json
-.gitignore
-partialoutput.json
-oldrun.sh
-sum/*
+hipcam/done/
+hipcam/imgs/
+hipcam/tst/
+hipcam/outputtest.json
+movedone.sh
